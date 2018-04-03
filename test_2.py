@@ -37,7 +37,7 @@ test_set = test_datagen.flow_from_directory('C:\\Users\\Abhishek\\Desktop\\datas
 
 
 classifier.fit_generator(training_set,
-                    steps_per_epoch=2700,
+                    steps_per_epoch=950,
                     epochs=15,
                     validation_data=test_set,
-                    validation_steps = 1500)
+                    validation_steps = 459)
