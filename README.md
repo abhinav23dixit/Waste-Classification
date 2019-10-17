@@ -1,8 +1,7 @@
 # Waste-Classification
 This project performs image recognition of various waste classes.We have used Convolutional Neural Networks for image classification.
 We have used Keras library(using tensorflow backend) for creating the CNN.
-Currently 2 classes is being identified by the code and we plan to extend it.
-
+It can classify images into 5 classes.
 # Contributors:
 
 <a href="https://www.github.com/ishaan0710">Ishaan Rajput</a><br>
